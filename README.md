@@ -1,0 +1,2 @@
+# Amazon-E-Commence-Sales
+This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed  on the official website of Amazon. This project was done in line with my Data Analysis Training Program with Quantum Analytics
